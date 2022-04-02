@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+
+<category>
+<pattern>WHEN WAS REC ESTABLISHED</pattern>
+<template>REC was established in the year 1997.</template>
+</category>
+<category><pattern>WHO IS THE FOUNDER OF REC</pattern> <template>MR.S.MEGANATHAN IS THE FOUNDER OF THE INSTITUTION.
+</template>
+</category>
+<category><pattern>WHAT IS REC</pattern>
+<template>REC is a college for all engineering aspirants.</template>
+</category>
+<category><pattern>
+DOES REC HAVE A FRIENDLY ENVIRNOMENT FOR THEIR STUDENTS  </pattern>
+<template>yes,REC has provided a peacefull and a very good atmosphere for its students.</template>
+</category>
+<category><pattern>HOW MANY DEPARTNMENTS ARE THERE IN REC</pattern>
+<template>rec has a total of 19 departnments altogether for the ug and pg students.</template>
+</category>
+<category><pattern>ARE STUDENTS PROVIDED WITH A COUNSELLOR TO RESOLVE THEIR QUERIES</pattern>
+<template>yes,students are provided with a counsellor to share any of their problems regardless of any context.</template>
+</category>
+<category>
+<pattern>
+HOW OFTEN REC CONDUCT CULTURALS
+</pattern>
+<template>culturals are conducted once in a year.</template>
+<category>
+<pattern>WHO IS PRINCIPAL OF REC</pattern>
+<template>Dr.Murugesan is the principal of rec.</template>
+</category>
+<category>
+<pattern>TO WHICH ORGANIZATION IS REC AFFILIATED TO </pattern>
+<template>REC was officially declared autonomous in the year 2019.</template>
+</category>
